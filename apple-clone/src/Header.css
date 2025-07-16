@@ -1,0 +1,11 @@
+
+
+.header {
+    padding: 0;
+    margin: 0;
+}
+
+.header__option {
+    font-size: 8;
+    color: gray;
+}
