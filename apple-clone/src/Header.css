@@ -1,11 +1,33 @@
 
 
 .header {
-    padding: 0;
-    margin: 0;
+    padding-left: 10px;
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
 }
 
 .header__option {
-    font-size: 8;
-    color: gray;
+    font-size: 12px;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header__logoImage {
+    width: 20px;
+    height: 15px;
+    
+}
+
+.header__icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: small;
+}
+
+.header__optionBasket {
+    font-size: small;
 }
