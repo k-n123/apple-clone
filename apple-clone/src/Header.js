@@ -8,7 +8,7 @@ function Header() {
   return (
     <div className='header'>
         <div className='header__logo'></div>
-            <img className='header__logoImage' src ="https://1000logos.net/wp-content/uploads/2017/02/Apple-Logosu.png"/>
+            <img className='header__logoImage' src ="https://1000logos.net/wp-content/uploads/2017/02/Apple-Logosu.png"></img>
         <div className='header__option'>
             <span className='header__optionText'>Store</span>
         </div>
